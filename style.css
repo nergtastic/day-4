@@ -1,3 +1,29 @@
+h1 {
+    font-weight: 400;
+}
+
+h2 {
+    font-weight: 400;
+}
+
+h5 {
+    font-weight: 400;
+}
+
 .banner {
-    padding: 100px 0px 100px 0px;
+    padding: 50px 0px 50px 0px;
+}
+
+.heading {
+    margin-top: 50px;
+}
+
+.card-heading {
+    margin-top: 20px;
+}
+
+.card-white {
+    background-color: white;
+    padding: 30px;
+    margin: 20px 50px 100px;
 }

@@ -34,3 +34,15 @@
     padding: 15px 0px;
 }
 
+.nav-btn {
+    float: right;
+    background-color: transparent;
+    color: white;
+    font-size: 12;
+    font-weight: 700;
+}
+
+.nav-brand {
+    margin-right: 42%;
+    color: white;
+}
